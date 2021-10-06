@@ -1,0 +1,23 @@
+body{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background: url(../assets/img/2.jpg) no-repeat center;
+    background-size: cover;
+    overflow: hidden;
+    color: #000;
+}
+
+.cont{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.now{
+    color: #000;
+    font-size: 26px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-left: 45%;
+}

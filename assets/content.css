@@ -1,0 +1,16 @@
+body{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: #FFE4B5;
+    color: #000;
+}
+
+.img{
+    text-align: right;
+    margin-right: 15px;
+}
+.text{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+   
+}

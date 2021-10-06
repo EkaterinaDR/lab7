@@ -1,0 +1,14 @@
+body{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background: url(../assets/img/1.jpg) no-repeat center;
+    background-size: cover;
+    overflow: hidden;
+    color: #000;
+}
+
+.cont{
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+    margin-top: 20px;
+}
